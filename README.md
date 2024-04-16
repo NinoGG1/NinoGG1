@@ -52,13 +52,15 @@ Email me at [nino.gueguen@gmail.com](mailto:nino.gueguen@gmail.com) or connect o
 ### Languages & Tools
 
 
-| CSS  | HTML          | Java Script |
-| :---------------: |:---------------:| :---------------:|
-| <img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="padding-right:20px;" />  |   <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>        |  <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:10px;" /> |
+| HTML5 | CSS3 | JavaScript | React | Node.js | Next.js | MongoDB | VSCode | GitHub | Vercel | Solidity | Ethers.js | Hardhat | Wagmi |
+|:-----:|:----:|:----------:|:-----:|:-------:|:-------:|:-------:|:------:|:------:|:------:|:--------:|:--------:|:-------:|:-----:|
+| <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> | <img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> | <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> | <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> | <img alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/> | <img alt="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/> | <img alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/> | <img alt="VSCode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" style="padding-right:20px;" /> | <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="padding-right:20px;" /> | 
+   <img alt="Vercel" width="40px" src="https://www.datocms-assets.com/75941/1657702911-vercel-logotype-light_20211228160702_0.png" style="padding-right:20px;" /> | 
+      <img alt="Solidity" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" style="padding-right:20px;" /> | 
+   <img alt="Ethers.js" width="40px" src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" style="padding-right:20px;" /> | 
+   <img alt="Hardhat" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" style="padding-right:20px;" /> | 
+   <img alt="Wagmi" width="40px" src="https://wagmi.sh/logo-dark.svg" style="padding-right:20px;" />  | 
 
-|HTML|CSS|
-|:---------------:||:---------------:|
-|<img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>|<img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="padding-right:20px;" />|
 
   <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
    <img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="padding-right:20px;" />
