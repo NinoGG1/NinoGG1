@@ -60,7 +60,7 @@ ___
 
 ⭐ GitHub Stats
 
-![GHstats](https://github-readme-stats.vercel.app/api?username=NinoGG1&show_icons=true&theme=transparent)
+![GHstats](https://github-readme-stats.vercel.app/api?username=NinoGG1&show_icons=true&theme=dark)
 
 
 
