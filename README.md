@@ -70,7 +70,7 @@ Email me at [nino.gueguen@gmail.com](mailto:nino.gueguen@gmail.com) or connect o
   <img alt="Viem" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/viem/viem-original.svg" style="padding-right:10px;" /> <!-- Please replace with appropriate image URL if available -->
   <img alt="Wagmi" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wagmi/wagmi-original.svg" style="padding-right:10px;" /> <!-- Please replace with appropriate image URL if available -->
   <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="padding-right:10px;" />
-  <img alt="GitHub Actions" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" style="padding-right:10px;" />
+  <img alt="GitHub Actions" width="40px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png)" style="padding-right:10px;" />
   <img alt="Vercel" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" style="padding-right:10px;" />
 </p>
 
