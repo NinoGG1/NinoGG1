@@ -51,6 +51,13 @@ Email me at [nino.gueguen@gmail.com](mailto:nino.gueguen@gmail.com) or connect o
 
 ### Languages & Tools
 
+
+| Aligné à gauche  | Centré          | Aligné à droite |
+| :--------------- |:---------------:| -----:|
+| Aligné à gauche  |   ce texte        |  Aligné à droite |
+| Aligné à gauche  | est             |   Aligné à droite |
+| Aligné à gauche  | centré          |    Aligné à droite |
+
 |HTML|CSS|
 |:---------------:||:---------------:|
 |<img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>|<img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="padding-right:20px;" />|
