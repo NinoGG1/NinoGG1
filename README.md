@@ -12,7 +12,9 @@ Passionate about building and understanding deep mechanisms.
 I find joy in coding, where precision meets creativity—like crafting architecture.
 ```
 
-> A construction engineer who transitioned into a developer. Passionate about building and understanding deep mechanisms. I find joy in coding, where precision meets creativity—like crafting architecture.
+> A construction engineer who transitioned into a developer.
+> Passionate about building and understanding deep mechanisms.
+> I find joy in coding, where precision meets creativity—like crafting architecture.
 
 ___
 
