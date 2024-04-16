@@ -8,34 +8,45 @@ I find joy in coding, where precision meets creativity—like crafting architect
 
 ___
 
-📍 Finistère in France, best region, best landscapes
-
-🏗️ Currently Building: Sharpening my web development skills—HTML, CSS, JavaScript, TypeScript, with a focus on React, Node.js, and MongoDB. Next.js Framework.
+### 📍 Location
+Finistère, France - best region, best landscapes
 
 ### 🏗️ Currently Building
-I'm currently honing my web development skills with a focus on:
-- **HTML, CSS, JavaScript, TypeScript** - Strengthening foundational skills.
-- **React & Next.js** - Building dynamic client-side applications.
-- **Node.js** - Creating efficient server-side applications.
-- **MongoDB** - Managing databases with NoSQL.
+Sharpening my web development skills:
+- **HTML, CSS, JavaScript, TypeScript** - Building the foundation.
+- **React & Node.js** - Developing dynamic web applications.
+- **MongoDB** - Working with NoSQL databases.
+- **Next.js** - Leveraging this framework for server-side rendering.
 
-Actively learning and applying best practices in modern web development frameworks and tools.
+### 📈 Blockchain Development
+Completed a blockchain developer course at Alyra:
+- **Mastered Solidity**.
+- **Developed decentralized applications (Dapps)** from scratch, including secure smart contracts.
+- **Dynamic React front-ends** with Next.js for Dapps.
 
+### 🌱 Expanding Skills
+Enhancing my web and blockchain knowledge, currently diving into **Rust** for more secure and efficient applications.
 
-📈 Blockchain Development: Completed a blockchain developer course at Alyra, mastering Solidity, and developing decentralized applications from scratch, including secure smart contracts and Dapps with dynamic React front-ends with Next.js.
+### 🤝 Open to Opportunities
+Seeking employment or freelance projects. Ready to bring energy and innovation to:
+- **Web3**
+- **Cybersecurity**
+- **Modern web development**
 
-🌱 Expanding Skills: Enhancing my web and blockchain knowledge, currently diving into Rust for more secure and efficient applications.
+### 💬 Expertise
+Happy to discuss:
+- **Blockchain, Ethereum**
+- **Traceability**
+- **NFTs** - Areas of specialization from my blockchain certification.
 
-🤝 Open to Opportunities: Seeking employment or freelance projects. Ready to bring energy and innovation to Web3, cybersecurity, or modern web development.
+### 🎯 Key Projects
+- **Tree Tracker**: Blockchain traceability for agroforestry from seed harvest to tree planting.
+- **Decentralized Voting System**: Ensuring election transparency and security.
+- **Crypto App**: Tracking cryptocurrency prices and trends.
 
-💬 Expertise: Happy to discuss blockchain, Ethereum, traceability, and NFTs—my specialization areas from my blockchain certification.
+### 📫 Contact Me
+Email me at [nino.gueguen@gmail.com](mailto:nino.gueguen@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/nino-gu%C3%A9guen-a4ba43148/).
 
-🎯 Key Projects:
-Tree Tracker: Blockchain traceability for agroforestry from seed harvest to tree planting.
-Decentralized Voting System: Ensuring election transparency and security.
-Crypto App: Tracking cryptocurrency prices and trends.
-
-📫 Contact Me: Email me at nino.gueguen@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/nino-gu%C3%A9guen-a4ba43148/).
 
  
 
