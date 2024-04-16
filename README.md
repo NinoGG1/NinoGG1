@@ -9,7 +9,7 @@ I find joy in coding, where precision meets creativity—like crafting architect
 ___
 
 ### 📍 Location
-Finistère, France - best region, best landscapes
+**Finistère, France** - Best region, best landscapes. Open to full remote work opportunities globally.
 
 ### 🏗️ Currently Building
 Sharpening my web development skills:
