@@ -10,7 +10,17 @@ ___
 
 📍 Finistère in France, best region, best landscapes
 
-🏗️ Currently Building: Sharpening my web development skills—HTML, CSS, JavaScript, TypeScript, with a focus on React, Node.js, and MongoDB.
+🏗️ Currently Building: Sharpening my web development skills—HTML, CSS, JavaScript, TypeScript, with a focus on React, Node.js, and MongoDB. Next.js Framework.
+
+### 🏗️ Currently Building
+I'm currently honing my web development skills with a focus on:
+- **HTML, CSS, JavaScript, TypeScript** - Strengthening foundational skills.
+- **React & Next.js** - Building dynamic client-side applications.
+- **Node.js** - Creating efficient server-side applications.
+- **MongoDB** - Managing databases with NoSQL.
+
+Actively learning and applying best practices in modern web development frameworks and tools.
+
 
 📈 Blockchain Development: Completed a blockchain developer course at Alyra, mastering Solidity, and developing decentralized applications from scratch, including secure smart contracts and Dapps with dynamic React front-ends with Next.js.
 
