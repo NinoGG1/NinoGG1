@@ -34,10 +34,10 @@ Seeking employment or freelance projects. Ready to bring energy and innovation t
 - **Modern web development**
 
 ### 💬 Expertise
-Happy to discuss:
-- **Blockchain, Ethereum**
-- **Traceability**
-- **NFTs** - Areas of specialization from my blockchain certification.
+I'm happy to discuss and share insights on a variety of cutting-edge technologies and fields. Feel free to reach out to me about:
+- **Blockchain, Web3, Cryptocurrencies** - Exploring the frontier of decentralized technology.
+- **Traceability & NFTs** - Specialized areas from my blockchain certification.
+- **Web Development, AI & New Technologies** - Passionate about the latest developments and their applications.
 
 ### 🎯 Key Projects
 - **Tree Tracker**: Blockchain traceability for agroforestry from seed harvest to tree planting.
