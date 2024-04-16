@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm Nino GUÉGUEN 👋</h2>
+<h1 align="center">Hi there, I'm Nino GUÉGUEN 👋</h1>
 
 <p align="center" style="font-size:20px;"><strong>A construction engineer who transitioned into a developer.</strong>
 <br/>
@@ -6,6 +6,8 @@
 <br/>
 <strong>I find joy in coding, where precision meets creativity—like crafting architecture.</strong></p>
 
+
+###_
 
 📍 Finistère in France, best region, best landscapes
 
