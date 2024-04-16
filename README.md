@@ -51,6 +51,6 @@ Email me at [nino.gueguen@gmail.com](mailto:nino.gueguen@gmail.com) or connect o
 
 ### Languages & Tools
 
-[<img align="left" alt="HTML" width"25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="padding-right:11px;" />]
+[<img align="left" alt="HTML" width"25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="padding-right:11px;" />][Html]
          
 
