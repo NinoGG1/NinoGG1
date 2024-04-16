@@ -7,7 +7,7 @@
 <strong>I find joy in coding, where precision meets creativity—like crafting architecture.</strong></p>
 
 
-### _
+### 
 
 📍 Finistère in France, best region, best landscapes
 
