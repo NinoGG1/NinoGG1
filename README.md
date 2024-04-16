@@ -50,8 +50,7 @@ Email me at [nino.gueguen@gmail.com](mailto:nino.gueguen@gmail.com) or connect o
  ___
 
 ### Development Languages & Tools
-<div style="display: flex; align-items: center; justify-content: start;">
-  <img alt="HTML5" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
    <img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="padding-right:20px;" />
    <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
      <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="padding-right:20px;" />
@@ -65,7 +64,6 @@ Email me at [nino.gueguen@gmail.com](mailto:nino.gueguen@gmail.com) or connect o
    <img alt="Ethers.js" width="40px" src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" style="padding-right:20px;" />
    <img alt="Hardhat" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" style="padding-right:20px;" />
    <img alt="Wagmi" width="40px" src="https://wagmi.sh/logo-dark.svg" style="padding-right:20px;" /> 
- </div>
 
 
 
