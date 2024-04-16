@@ -5,10 +5,6 @@
 <strong>Passionate about building and understanding deep mechanisms.</strong>
 <br/>
 <strong>I find joy in coding, where precision meets creativity—like crafting architecture.</strong></p>
-
-
-***
----
 ___
 
 📍 Finistère in France, best region, best landscapes
