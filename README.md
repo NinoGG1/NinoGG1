@@ -1,5 +1,4 @@
-## Hi there, I'm Nino 👋
-<h2 align="center" style="color:#AEFAFA;">Nino GUÉGUE</h2>
+<h2 align="center" style="color:#AEFAFA;">Hi there, I'm Nino GUÉGUEN 👋</h2>
 
 A construction engineer who transitioned into a developer from Bretagne in France. Ever since I was young, I have been passionate about building with my hands, understanding how things work in depth. My methodical mind finds satisfaction in coding because everything has to be in its place, well-organized, well-built, like a beautiful building's architecture.
 
