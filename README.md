@@ -49,22 +49,31 @@ Email me at [nino.gueguen@gmail.com](mailto:nino.gueguen@gmail.com) or connect o
 
  ___
 
-### Languages & Tools
-
+### Development Languages:
 <p align="left">
-  <a href="#html">
-    <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="padding-right:10px;" />
-  </a>
-  <a href="#css">
-    <img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="padding-right:10px;" />
-  </a>
-  <a href="#javascript">
-    <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-  </a>
-  <a href="#nodejs">
-    <img align="left" alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-  </a>
+  <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="padding-right:10px;" />
+  <img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="padding-right:10px;" />
+  <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+  <img alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+  <img alt="Solidity" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" style="padding-right:10px;" />
+  <img alt="Rust" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-plain.svg" title="Rust (in progress)" style="padding-right:10px;" />
 </p>
-<br clear="left"/>
+
+### Development Tools and Technologies:
+<p align="left">
+  <img alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+  <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="padding-right:10px;" />
+  <img alt="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" style="padding-right:10px;" />
+  <img alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+  <img alt="Ethers.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ethers/ethers-original.svg" style="padding-right:10px;" /> <!-- Please replace with appropriate image URL if available -->
+  <img alt="Hardhat" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" style="padding-right:10px;" /> <!-- Please replace with appropriate image URL if available -->
+  <img alt="Foundry" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/foundry/foundry-original.svg" style="padding-right:10px;" /> <!-- Please replace with appropriate image URL if available -->
+  <img alt="Viem" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/viem/viem-original.svg" style="padding-right:10px;" /> <!-- Please replace with appropriate image URL if available -->
+  <img alt="Wagmi" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wagmi/wagmi-original.svg" style="padding-right:10px;" /> <!-- Please replace with appropriate image URL if available -->
+  <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="padding-right:10px;" />
+  <img alt="GitHub Actions" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" style="padding-right:10px;" />
+  <img alt="Vercel" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" style="padding-right:10px;" />
+</p>
+
 
 
