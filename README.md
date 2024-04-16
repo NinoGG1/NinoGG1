@@ -54,7 +54,7 @@ Email me at [nino.gueguen@gmail.com](mailto:nino.gueguen@gmail.com) or connect o
 
 | Aligné à gauche  | Centré          | Aligné à droite |
 | :--------------- |:---------------:| -----:|
-| Aligné à gauche  |   ce texte        |  Aligné à droite |
+| Aligné à gauche  |   <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>        |  Aligné à droite |
 | Aligné à gauche  | est             |   Aligné à droite |
 | Aligné à gauche  | centré          |    Aligné à droite |
 
