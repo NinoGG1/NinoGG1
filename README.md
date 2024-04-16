@@ -60,18 +60,18 @@ Email me at [nino.gueguen@gmail.com](mailto:nino.gueguen@gmail.com) or connect o
 
 ### Development Tools and Technologies:
 <p align="left">
-  <img alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-  <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="padding-right:10px;" />
-  <img alt="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
-  <img alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-  <img alt="Ethers.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ethers/ethers-original.svg" style="padding-right:10px;" /> <!-- Please replace with appropriate image URL if available -->
-  <img alt="Hardhat" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" style="padding-right:10px;" /> <!-- Please replace with appropriate image URL if available -->
-  <img alt="Foundry" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/foundry/foundry-original.svg" style="padding-right:10px;" /> <!-- Please replace with appropriate image URL if available -->
-  <img alt="Viem" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/viem/viem-original.svg" style="padding-right:10px;" /> <!-- Please replace with appropriate image URL if available -->
-  <img alt="Wagmi" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wagmi/wagmi-original.svg" style="padding-right:10px;" /> <!-- Please replace with appropriate image URL if available -->
-  <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="padding-right:10px;" />
+  <img alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="padding-right:20px;" />
+  <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="padding-right:20px;" />
+  <img alt="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="padding-right:20px;" />
+  <img alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" style="padding-right:20px;" />
+  <img alt="Ethers.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ethers/ethers-original.svg" style="padding-right:20px;" /> <!-- Please replace with appropriate image URL if available -->
+  <img alt="Hardhat" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" style="padding-right:20px;" /> <!-- Please replace with appropriate image URL if available -->
+  <img alt="Foundry" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/foundry/foundry-original.svg" style="padding-right:20px;" /> <!-- Please replace with appropriate image URL if available -->
+  <img alt="Viem" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/viem/viem-original.svg" style="padding-right:20px;" /> <!-- Please replace with appropriate image URL if available -->
+  <img alt="Wagmi" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wagmi/wagmi-original.svg" style="padding-right:20px;" /> <!-- Please replace with appropriate image URL if available -->
+  <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="padding-right:20px;" />
   <img alt="GitHub Actions" width="40px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png)" style="padding-right:10px;" />
-  <img alt="Vercel" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" style="padding-right:10px;" />
+  <img alt="Vercel" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" style="padding-right:20px;" />
 </p>
 
 
