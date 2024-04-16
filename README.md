@@ -60,8 +60,8 @@ Email me at [nino.gueguen@gmail.com](mailto:nino.gueguen@gmail.com) or connect o
    <img alt="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="padding-right:20px;" />
    <img alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" style="padding-right:20px;" />
    <img alt="Ethers.js" width="40px" src="https://assets-global.website-files.com/6433e6f821ae13dd37394322/64393ec631a32b4da0ee030c_ethersjs.png" style="padding-right:20px;" />
-   <img alt="Hardhat" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" style="padding-right:20px;" /> <!-- Please replace with appropriate image URL if available -->
-   <img alt="Wagmi" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wagmi/wagmi-original.svg" style="padding-right:20px;" /> <!-- Please replace with appropriate image URL if available -->
+   <img alt="Hardhat" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" style="padding-right:20px;" />
+   <img alt="Wagmi" width="40px" src="https://wagmi.sh/logo-dark.svg" style="padding-right:20px;" /> 
      <img alt="VSCode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" style="padding-right:20px;" />
    <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="padding-right:20px;" />
    <img alt="Vercel" width="40px" src="https://www.datocms-assets.com/75941/1657702911-vercel-logotype-light_20211228160702_0.png" style="padding-right:20px;" />
