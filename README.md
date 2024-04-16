@@ -6,14 +6,6 @@ Passionate about building and understanding deep mechanisms.
 <br/>
 I find joy in coding, where precision meets creativity—like crafting architecture.</p>_
 
-
-
-
-
-> A construction engineer who transitioned into a developer.
-> Passionate about building and understanding deep mechanisms.
-> I find joy in coding, where precision meets creativity—like crafting architecture.
-
 ___
 
 📍 Finistère in France, best region, best landscapes
