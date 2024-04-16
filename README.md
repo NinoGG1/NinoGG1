@@ -9,8 +9,24 @@ Passionate about building and understanding deep mechanisms.
 
 A construction engineer who transitioned into a developer from Bretagne in France. Ever since I was young, I have been passionate about building with my hands, understanding how things work in depth. My methodical mind finds satisfaction in coding because everything has to be in its place, well-organized, well-built, like a beautiful building's architecture.
 
+📍 Finistère in France, best region, best landscapes
 
-Here's a glimpse into my professional life and personal interests:
+🏗️ Currently Building: Sharpening my web development skills—HTML, CSS, JavaScript, TypeScript, with a focus on React, Node.js, and MongoDB.
+
+📈 Blockchain Development: Completed a blockchain developer course at Alyra, mastering Solidity, and developing decentralized applications from scratch, including secure smart contracts and Dapps with dynamic React front-ends with Next.js.
+
+🌱 Expanding Skills: Enhancing my web and blockchain knowledge, currently diving into Rust for more secure and efficient applications.
+
+🤝 Open to Opportunities: Seeking employment or freelance projects. Ready to bring energy and innovation to Web3, cybersecurity, or modern web development.
+
+💬 Expertise: Happy to discuss blockchain, Ethereum, traceability, and NFTs—my specialization areas from my blockchain certification.
+
+🎯 Key Projects:
+Tree Tracker: Blockchain traceability for agroforestry from seed harvest to tree planting.
+Decentralized Voting System: Ensuring election transparency and security.
+Crypto App: Tracking cryptocurrency prices and trends.
+
+📫 Contact Me: Email me at nino.gueguen@gmail.com or connect on LinkedIn.
 
 - 🏗️ I’m currently laying my foundations. Over the past year, I have trained in web development, learning the basics: HTML, CSS, JavaScript, then specializing in React, Node.js for backend, and MongoDB for databases.
 - 📈 Thanks to these skills and my fascination with the potential of blockchain and cryptocurrencies, I pursued a blockchain developer course at Alyra, the leading French school in this field. I learned the Solidity language and to develope a decentralized application from A to Z, including securing and unit testing smart contracts, and creating a dynamic and responsive front end in React, with the Next.js framework that communicates directly with the blockchain and smart contracts.
