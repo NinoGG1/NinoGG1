@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Nino GUÉGUEN 👋</h1>
+<h1 align="center">Hi there, I'm Nino 👋</h1>
 
 _<p align="center" style="font-size:20px;">A construction engineer who transitioned into a developer.
 <br/>
