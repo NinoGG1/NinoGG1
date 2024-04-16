@@ -1,10 +1,10 @@
 <h2 align="center">Hi there, I'm Nino GUÉGUEN 👋</h2>
 
-<p align="center">A construction engineer who transitioned into a developer. 
+<p align="center" style="font-size:20px;"><strong>A construction engineer who transitioned into a developer.</strong>
 <br/>
-Passionate about building and understanding deep mechanisms.
+<strong>Passionate about building and understanding deep mechanisms.</strong>
 <br/>
-  I find joy in coding, where precision meets creativity—like crafting architecture.</p>
+<strong>I find joy in coding, where precision meets creativity—like crafting architecture.</strong></p>
 
 
 📍 Finistère in France, best region, best landscapes
