@@ -50,12 +50,10 @@ Email me at [nino.gueguen@gmail.com](mailto:nino.gueguen@gmail.com) or connect o
  ___
 
 ### Development Languages & Tools
-<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
  <p align="left">
    <img alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="padding-right:10px;" />
    <img alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="padding-right:10px;" />
    <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-   <img alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
    <img alt="Solidity" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" style="padding-right:10px;" />
     <img alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="padding-right:20px;" />
    <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="padding-right:20px;" />
@@ -63,13 +61,12 @@ Email me at [nino.gueguen@gmail.com](mailto:nino.gueguen@gmail.com) or connect o
    <img alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" style="padding-right:20px;" />
    <img alt="Ethers.js" width="30px" src="https://assets-global.website-files.com/6433e6f821ae13dd37394322/64393ec631a32b4da0ee030c_ethersjs.png" style="padding-right:20px;" />
    <img alt="Hardhat" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" style="padding-right:20px;" /> <!-- Please replace with appropriate image URL if available -->
-   <img alt="Viem" width="30px" src="https://viem.sh/logo-light-hug.svg" style="padding-right:20px;" /> <!-- Please replace with appropriate image URL if available -->
    <img alt="Wagmi" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wagmi/wagmi-original.svg" style="padding-right:20px;" /> <!-- Please replace with appropriate image URL if available -->
+     <img alt="VSCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" style="padding-right:20px;" />
    <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="padding-right:20px;" />
-   <img alt="GitHub Actions" width="30px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png)" style="padding-right:10px;" />
-   <img alt="Vercel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" style="padding-right:20px;" />
+   <img alt="Vercel" width="30px" src="https://www.datocms-assets.com/75941/1657702911-vercel-logotype-light_20211228160702_0.png" style="padding-right:20px;" />
  </p>
-</div>
+
 
 
 
