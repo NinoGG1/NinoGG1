@@ -2,7 +2,9 @@
 
 <p align="center">A construction engineer who transitioned into a developer. 
 <br/>
-Passionate about building and understanding deep mechanisms. I find joy in coding, where precision meets creativity—like crafting architecture.</p>
+Passionate about building and understanding deep mechanisms.
+<br/>
+  I find joy in coding, where precision meets creativity—like crafting architecture.</p>
 
 
 A construction engineer who transitioned into a developer from Bretagne in France. Ever since I was young, I have been passionate about building with my hands, understanding how things work in depth. My methodical mind finds satisfaction in coding because everything has to be in its place, well-organized, well-built, like a beautiful building's architecture.
