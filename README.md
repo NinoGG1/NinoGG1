@@ -10,11 +10,11 @@ Here's a glimpse into my professional life and personal interests:
 - 🌱 I am currently continuing to improve my skills in these various web and blockchain languages and am starting to learn Rust to enhance my blockchain development skills, diving deep into how it can be used for creating more secure and efficient applications.
 - 👯 I’m looking for employment or freelance opportunities. Filled with energy and ready to start after this months of learning, I am eager to work on innovative and modern projects. I am open to Web3 projects, cybersecurity projects, or modern web projects.
 - 💬 Ask me about anything related to blockchain, Ethereum, especially around traceability and NFTs, which are the areas I specialized in for my final blockchain developer certification project.
-- 📫 How to reach me: Drop me an email at [your.email@example.com] or connect with me on LinkedIn.
 - 🎯 Some of my main projects:
   - Tree Tracker - A blockchain-based traceability tool for agroforestry from seed harvest to tree planting.
   - Decentralized Voting System - A blockchain-based voting system to ensure transparency and security in elections.
   - Crypto App - A simple app to track cryptocurrency prices and view their trends.
+- 📫 How to reach me: Drop me an email at [nino.gueguen@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/nino-gu%C3%A9guen-a4ba43148/).
  
 
 🌟 Follow my GitHub journey
