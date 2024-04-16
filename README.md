@@ -66,7 +66,7 @@ Email me at [nino.gueguen@gmail.com](mailto:nino.gueguen@gmail.com) or connect o
   <img alt="MongoDB" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" style="padding-right:20px;" />
   <img alt="Ethers.js" width="25px" src="https://assets-global.website-files.com/6433e6f821ae13dd37394322/64393ec631a32b4da0ee030c_ethersjs.png" style="padding-right:20px;" />
   <img alt="Hardhat" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" style="padding-right:20px;" /> <!-- Please replace with appropriate image URL if available -->
-  <img alt="Viem" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/viem/viem-original.svg" style="padding-right:20px;" /> <!-- Please replace with appropriate image URL if available -->
+  <img alt="Viem" width="25px" src="https://viem.sh/logo-light-hug.svg" style="padding-right:20px;" /> <!-- Please replace with appropriate image URL if available -->
   <img alt="Wagmi" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wagmi/wagmi-original.svg" style="padding-right:20px;" /> <!-- Please replace with appropriate image URL if available -->
   <img alt="GitHub" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="padding-right:20px;" />
   <img alt="GitHub Actions" width="40px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png)" style="padding-right:10px;" />
