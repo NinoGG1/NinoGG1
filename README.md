@@ -14,7 +14,7 @@ Here's a glimpse into my professional life and personal interests:
   - Tree Tracker - A blockchain-based traceability tool for agroforestry from seed harvest to tree planting.
   - Decentralized Voting System - A blockchain-based voting system to ensure transparency and security in elections.
   - Crypto App - A simple app to track cryptocurrency prices and view their trends.
-- 📫 How to reach me: Drop me an email at (nino.gueguen@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/nino-gu%C3%A9guen-a4ba43148/).
+- 📫 How to reach me: Drop me an email at nino.gueguen@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/nino-gu%C3%A9guen-a4ba43148/).
  
 
 🌟 Follow my GitHub journey
