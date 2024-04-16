@@ -1,6 +1,7 @@
-### Hi there 👋
+## Hi there, I'm Nino 👋
+<h2 align="center" style="color:#AEFAFA;">Nino GUÉGUE</h2>
 
-I'm Nino, a construction engineer who transitioned into a developer from Bretagne in France. Ever since I was young, I have been passionate about building with my hands, understanding how things work in depth. My methodical mind finds satisfaction in coding because everything has to be in its place, well-organized, well-built, like a beautiful building's architecture.
+A construction engineer who transitioned into a developer from Bretagne in France. Ever since I was young, I have been passionate about building with my hands, understanding how things work in depth. My methodical mind finds satisfaction in coding because everything has to be in its place, well-organized, well-built, like a beautiful building's architecture.
 
 
 Here's a glimpse into my professional life and personal interests:
