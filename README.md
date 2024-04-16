@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Nino GUÉGUEN 👋</h1>
 
-<p align="center" style="font-size:20px;"><strong>A construction engineer who transitioned into a developer.</strong>
+<p align="center" style="font-size:20px;"><p>A construction engineer who transitioned into a developer.</p>
 <br/>
-<strong>Passionate about building and understanding deep mechanisms.</strong>
+<p>Passionate about building and understanding deep mechanisms.</p>
 <br/>
-<strong>I find joy in coding, where precision meets creativity—like crafting architecture.</strong></p>
+<p>I find joy in coding, where precision meets creativity—like crafting architecture.</p></p>
 
 ___
 
