@@ -6,9 +6,9 @@ Passionate about building and understanding deep mechanisms.
 <br/>
 I find joy in coding, where precision meets creativity—like crafting architecture.</p>
 
-[center]A construction engineer who transitioned into a developer.
+[center]A construction engineer who transitioned into a developer.[/center]
 Passionate about building and understanding deep mechanisms.
-I find joy in coding, where precision meets creativity—like crafting architecture.[/center]
+I find joy in coding, where precision meets creativity—like crafting architecture.
 
 
 
