@@ -47,7 +47,10 @@ I'm happy to discuss and share insights on a variety of cutting-edge technologie
 ### 📫 Contact Me
 Email me at [nino.gueguen@gmail.com](mailto:nino.gueguen@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/nino-gu%C3%A9guen-a4ba43148/).
 
+ ___
 
- 
+### Languages & Tools
 
+[<img align="left" alt="HTML" width"25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="padding-right:11px;" />]
+         
 
