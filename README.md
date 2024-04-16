@@ -64,9 +64,8 @@ Email me at [nino.gueguen@gmail.com](mailto:nino.gueguen@gmail.com) or connect o
   <img alt="React" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="padding-right:20px;" />
   <img alt="Next.js" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="padding-right:20px;" />
   <img alt="MongoDB" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" style="padding-right:20px;" />
-  <img alt="Ethers.js" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ethers/ethers-original.svg" style="padding-right:20px;" /> <!-- Please replace with appropriate image URL if available -->
+  <img alt="Ethers.js" width="25px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ethers/ethers-original.svg](https://assets-global.website-files.com/6433e6f821ae13dd37394322/64393ec631a32b4da0ee030c_ethersjs.png)" style="padding-right:20px;" />
   <img alt="Hardhat" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" style="padding-right:20px;" /> <!-- Please replace with appropriate image URL if available -->
-  <img alt="Foundry" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/foundry/foundry-original.svg" style="padding-right:20px;" /> <!-- Please replace with appropriate image URL if available -->
   <img alt="Viem" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/viem/viem-original.svg" style="padding-right:20px;" /> <!-- Please replace with appropriate image URL if available -->
   <img alt="Wagmi" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wagmi/wagmi-original.svg" style="padding-right:20px;" /> <!-- Please replace with appropriate image URL if available -->
   <img alt="GitHub" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="padding-right:20px;" />
